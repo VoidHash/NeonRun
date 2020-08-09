@@ -1,0 +1,1249 @@
+fileFormatVersion: 2
+guid: f2ab24232b49fb940a22317a87b0f0be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3410918491446568398
+    second: powerups_0
+  - first:
+      213: -7415331047110381915
+    second: powerups_1
+  - first:
+      213: 621560852509794982
+    second: powerups_2
+  - first:
+      213: 4928671260392873470
+    second: powerups_3
+  - first:
+      213: 4536303970436761004
+    second: powerups_4
+  - first:
+      213: -499814844998443567
+    second: powerups_5
+  - first:
+      213: -6090384608550177697
+    second: powerups_6
+  - first:
+      213: -4108787663010400821
+    second: powerups_7
+  - first:
+      213: 2834573260081099437
+    second: powerups_8
+  - first:
+      213: -2004970489635254543
+    second: powerups_9
+  - first:
+      213: 3366297153455892705
+    second: powerups_10
+  - first:
+      213: -8500697913295427518
+    second: powerups_11
+  - first:
+      213: -5017688112528708988
+    second: powerups_12
+  - first:
+      213: -527187307387676284
+    second: powerups_13
+  - first:
+      213: -6315947202296349192
+    second: powerups_14
+  - first:
+      213: -7307692565272481004
+    second: powerups_15
+  - first:
+      213: 7542719145433479550
+    second: powerups_16
+  - first:
+      213: -4425008299652450432
+    second: powerups_17
+  - first:
+      213: 3470604926217897462
+    second: powerups_18
+  - first:
+      213: 1989170014338257150
+    second: powerups_19
+  - first:
+      213: 293229111749624128
+    second: powerups_20
+  - first:
+      213: 5197353168122753306
+    second: powerups_21
+  - first:
+      213: -3212825086251198800
+    second: powerups_22
+  - first:
+      213: 203023045082140110
+    second: powerups_23
+  - first:
+      213: -6364443174360946515
+    second: powerups_24
+  - first:
+      213: 1171130094208404105
+    second: powerups_25
+  - first:
+      213: 3237500625638581862
+    second: powerups_26
+  - first:
+      213: 6026423975946257547
+    second: powerups_27
+  - first:
+      213: -8743460652373630372
+    second: powerups_28
+  - first:
+      213: -5040670138088018959
+    second: powerups_29
+  - first:
+      213: 648193659538119141
+    second: powerups_30
+  - first:
+      213: -9080512310084243199
+    second: powerups_31
+  - first:
+      213: -4662796313185058134
+    second: powerups_32
+  - first:
+      213: -3957729234738521718
+    second: powerups_33
+  - first:
+      213: -5585339772669863076
+    second: powerups_34
+  - first:
+      213: 6919838276940816897
+    second: powerups_35
+  - first:
+      213: 1167293758339996782
+    second: powerups_36
+  - first:
+      213: -6669829987367731535
+    second: powerups_37
+  - first:
+      213: -1729007417324953854
+    second: powerups_38
+  - first:
+      213: -6598748164335077242
+    second: powerups_39
+  - first:
+      213: 5075451858129168704
+    second: powerups_40
+  - first:
+      213: 2613723915719246208
+    second: powerups_41
+  - first:
+      213: -8251655151769334794
+    second: powerups_42
+  - first:
+      213: -4292182966915700773
+    second: powerups_43
+  - first:
+      213: 201994743539517815
+    second: powerups_44
+  - first:
+      213: 4192560593984208328
+    second: powerups_10
+  - first:
+      213: 364636797939933966
+    second: powerups_11
+  - first:
+      213: -9119071675039965321
+    second: powerups_12
+  - first:
+      213: -5316283594707656795
+    second: powerups_13
+  - first:
+      213: -311879010361812834
+    second: powerups_14
+  - first:
+      213: 8719488574112531268
+    second: powerups_15
+  - first:
+      213: -7628198586372374104
+    second: powerups_16
+  - first:
+      213: -4580003028207792333
+    second: powerups_17
+  - first:
+      213: 5304110951064124218
+    second: powerups_18
+  - first:
+      213: -891274541373168488
+    second: powerups_19
+  - first:
+      213: 3968974166107960397
+    second: powerups_20
+  - first:
+      213: 6121669058482129819
+    second: powerups_21
+  - first:
+      213: 4427462042136167476
+    second: powerups_22
+  - first:
+      213: -3118223255526688095
+    second: powerups_23
+  - first:
+      213: -3149671244666706452
+    second: powerups_59
+  - first:
+      213: -8548523532463675596
+    second: powerups_60
+  - first:
+      213: 1542194396585842478
+    second: powerups_61
+  - first:
+      213: 6170441176990061700
+    second: powerups_62
+  - first:
+      213: 8836057516636089342
+    second: powerups_63
+  - first:
+      213: -4693676677423535252
+    second: powerups_64
+  - first:
+      213: 6746737789249830454
+    second: powerups_65
+  - first:
+      213: -5727217138369645086
+    second: powerups_66
+  - first:
+      213: 2355744054538713463
+    second: powerups_67
+  - first:
+      213: 5258171595802257976
+    second: powerups_68
+  - first:
+      213: 4740425252955151128
+    second: powerups_69
+  - first:
+      213: -8925606966335476478
+    second: powerups_70
+  - first:
+      213: 2283082914763047991
+    second: powerups_71
+  - first:
+      213: -5129359038166857410
+    second: powerups_72
+  - first:
+      213: 2672014263065283979
+    second: powerups_73
+  - first:
+      213: 4984735989930066975
+    second: powerups_74
+  - first:
+      213: 4130458454112227546
+    second: powerups_75
+  - first:
+      213: -8044952660352676572
+    second: powerups_76
+  - first:
+      213: 4510796528306154511
+    second: powerups_77
+  - first:
+      213: 1846867610054567480
+    second: powerups_78
+  - first:
+      213: 2420255096451202449
+    second: powerups_79
+  - first:
+      213: 3565296246948866713
+    second: powerups_80
+  - first:
+      213: 3836628991716713413
+    second: powerups_81
+  - first:
+      213: -5268322929156530540
+    second: powerups_82
+  - first:
+      213: 7097258924715956673
+    second: powerups_83
+  - first:
+      213: 26229465090538181
+    second: powerups_84
+  - first:
+      213: -1071880231179239312
+    second: powerups_85
+  - first:
+      213: 1659048103723553979
+    second: powerups_86
+  - first:
+      213: 2211281363096627777
+    second: powerups_87
+  - first:
+      213: -2586431681071585302
+    second: powerups_88
+  - first:
+      213: -4117632536315768802
+    second: powerups_89
+  - first:
+      213: -2070276412052767571
+    second: powerups_90
+  - first:
+      213: 5409036051686166298
+    second: powerups_91
+  - first:
+      213: -3387145223221125037
+    second: powerups_92
+  - first:
+      213: 8757946711214036189
+    second: powerups_93
+  - first:
+      213: -406506822694149612
+    second: powerups_94
+  - first:
+      213: -5815930399963755767
+    second: powerups_95
+  - first:
+      213: -9195614150450690373
+    second: powerups_96
+  - first:
+      213: -5263446379502271678
+    second: powerups_97
+  - first:
+      213: 1745985412379949610
+    second: powerups_98
+  - first:
+      213: 8303737391415241376
+    second: powerups_99
+  - first:
+      213: 7000915870470571431
+    second: powerups_100
+  - first:
+      213: 6032769457739618273
+    second: powerups_101
+  - first:
+      213: -3071852383356959471
+    second: powerups_102
+  - first:
+      213: -4046712454790074619
+    second: powerups_103
+  - first:
+      213: -1812123637770223929
+    second: powerups_104
+  - first:
+      213: 857123859531851385
+    second: powerups_105
+  - first:
+      213: -1579849267646898721
+    second: powerups_106
+  - first:
+      213: -583817244421730487
+    second: powerups_107
+  - first:
+      213: -1897388054536350670
+    second: powerups_108
+  - first:
+      213: 2069019030127280205
+    second: powerups_109
+  - first:
+      213: -3189369904889931184
+    second: powerups_110
+  - first:
+      213: -5960302586001291230
+    second: powerups_111
+  - first:
+      213: 7570921726555611677
+    second: powerups_112
+  - first:
+      213: -2451722826806910019
+    second: powerups_113
+  - first:
+      213: -942241642537133694
+    second: powerups_114
+  - first:
+      213: 615480984299560525
+    second: powerups_115
+  - first:
+      213: -1685638177472355507
+    second: powerups_116
+  - first:
+      213: -7821901623969573232
+    second: powerups_117
+  - first:
+      213: -2817816270126542493
+    second: powerups_118
+  - first:
+      213: -871747707955747048
+    second: powerups_119
+  - first:
+      213: -3828164978786629547
+    second: powerups_120
+  - first:
+      213: -8186049317001253923
+    second: powerups_121
+  - first:
+      213: -158482581116441668
+    second: powerups_122
+  - first:
+      213: 9052683761449076856
+    second: powerups_123
+  - first:
+      213: -3856465617177765571
+    second: powerups_124
+  - first:
+      213: -5567858251409681481
+    second: powerups_125
+  - first:
+      213: -5508053585110498590
+    second: powerups_126
+  - first:
+      213: -1606638599082442513
+    second: powerups_127
+  - first:
+      213: 4493693452100887955
+    second: powerups_128
+  - first:
+      213: 4389304056121833628
+    second: powerups_129
+  - first:
+      213: 6320869614876691095
+    second: powerups_130
+  - first:
+      213: -4684018076588245231
+    second: powerups_131
+  - first:
+      213: -7098821026764970408
+    second: powerups_132
+  - first:
+      213: -280290492255337139
+    second: powerups_133
+  - first:
+      213: 8511144378984136561
+    second: powerups_134
+  - first:
+      213: 5984217520897063438
+    second: powerups_135
+  - first:
+      213: 8063755438144287227
+    second: powerups_136
+  - first:
+      213: 9163185878341795088
+    second: powerups_137
+  - first:
+      213: -668524570708795733
+    second: powerups_138
+  - first:
+      213: 4055365996776202468
+    second: powerups_139
+  - first:
+      213: 4470001053008218228
+    second: powerups_140
+  - first:
+      213: -3636467955917790398
+    second: powerups_141
+  - first:
+      213: 5927927217804149028
+    second: powerups_142
+  - first:
+      213: 6391367843390228636
+    second: powerups_143
+  - first:
+      213: -7697976275227429451
+    second: powerups_144
+  - first:
+      213: 6934181194993627228
+    second: powerups_145
+  - first:
+      213: 3012778625944630111
+    second: powerups_146
+  - first:
+      213: -5814456837693240683
+    second: powerups_147
+  - first:
+      213: -5468155846173899321
+    second: powerups_148
+  - first:
+      213: -43850435580359537
+    second: powerups_149
+  - first:
+      213: -5094947370734086789
+    second: powerups_150
+  - first:
+      213: -714100269999390008
+    second: powerups_151
+  - first:
+      213: -6001219583293854365
+    second: powerups_152
+  - first:
+      213: 3953050414439984579
+    second: powerups_153
+  - first:
+      213: 6002900237324919879
+    second: powerups_154
+  - first:
+      213: -1560982813978030012
+    second: powerups_155
+  - first:
+      213: 958950190113792902
+    second: powerups_156
+  - first:
+      213: -1126570456541236135
+    second: powerups_157
+  - first:
+      213: 8161087233673811830
+    second: powerups_158
+  - first:
+      213: -7448375923303774766
+    second: powerups_159
+  - first:
+      213: -2432139181200570041
+    second: powerups_160
+  - first:
+      213: -6361323628029532834
+    second: powerups_161
+  - first:
+      213: -7740841084738004438
+    second: powerups_162
+  - first:
+      213: -5065538969643604704
+    second: powerups_163
+  - first:
+      213: -4735556679131264298
+    second: powerups_164
+  - first:
+      213: -1432820808756493957
+    second: powerups_165
+  - first:
+      213: 4361426665108639527
+    second: powerups_166
+  - first:
+      213: 3351631770158737172
+    second: powerups_167
+  - first:
+      213: 972425014418116147
+    second: powerups_168
+  - first:
+      213: -1112086583129608528
+    second: powerups_169
+  - first:
+      213: -2251171221198967665
+    second: powerups_170
+  - first:
+      213: 1083978698015549427
+    second: powerups_171
+  - first:
+      213: 3334969843001085414
+    second: powerups_172
+  - first:
+      213: 557924753331832842
+    second: powerups_173
+  - first:
+      213: 967490128363575358
+    second: powerups_174
+  - first:
+      213: -753191203205120923
+    second: powerups_175
+  - first:
+      213: 1388305580442079587
+    second: powerups_176
+  - first:
+      213: -3922683737955684173
+    second: powerups_177
+  - first:
+      213: -3311211101307199630
+    second: powerups_178
+  - first:
+      213: -2063937247791714902
+    second: powerups_179
+  - first:
+      213: -1424403422533235651
+    second: powerups_180
+  - first:
+      213: -3612008374359351287
+    second: powerups_181
+  - first:
+      213: 4117342510625221530
+    second: powerups_182
+  - first:
+      213: 6662545041964558122
+    second: powerups_183
+  - first:
+      213: -8961150472674025505
+    second: powerups_184
+  - first:
+      213: -8661727701361622500
+    second: powerups_185
+  - first:
+      213: -264236094848621183
+    second: powerups_186
+  - first:
+      213: -1830059679906762788
+    second: powerups_187
+  - first:
+      213: 7520251909679455458
+    second: powerups_188
+  - first:
+      213: 8361611477169882121
+    second: powerups_189
+  - first:
+      213: 8290764396371625540
+    second: powerups_190
+  - first:
+      213: -801885222566963054
+    second: powerups_191
+  - first:
+      213: -6571606623515012021
+    second: powerups_192
+  - first:
+      213: -4180150717014357434
+    second: powerups_193
+  - first:
+      213: -3269298066215258086
+    second: powerups_194
+  - first:
+      213: 8427386960106814266
+    second: powerups_195
+  - first:
+      213: 1710147337576725671
+    second: powerups_196
+  - first:
+      213: -3150631975312731484
+    second: powerups_197
+  - first:
+      213: 557022749065350454
+    second: powerups_198
+  - first:
+      213: -787940049495273900
+    second: powerups_199
+  - first:
+      213: 5538389599464364057
+    second: powerups_200
+  - first:
+      213: -3101782321484440604
+    second: powerups_201
+  - first:
+      213: -6814674344741702926
+    second: powerups_202
+  - first:
+      213: -6397301450749572193
+    second: powerups_203
+  - first:
+      213: 6195278708622867421
+    second: powerups_204
+  - first:
+      213: -176402172550119164
+    second: powerups_205
+  - first:
+      213: -2556649362091020269
+    second: powerups_206
+  - first:
+      213: -5248431036863738028
+    second: powerups_207
+  - first:
+      213: -4812323690825204495
+    second: powerups_208
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: powerups_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 250
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdbab7a5a7fe2a30800000000000000
+      internalID: 4192560593984208328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 250
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03ee3d5c337f0500800000000000000
+      internalID: 364636797939933966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 250
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f9aef50ac827180800000000000000
+      internalID: -9119071675039965321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 250
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af963ccc34c836b0800000000000000
+      internalID: -5316283594707656795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 250
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98db7641bbfbabf0800000000000000
+      internalID: -311879010361812834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_15
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 250
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4430e0b09a8d10970800000000000000
+      internalID: 8719488574112531268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 250
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a143273dc1332690800000000000000
+      internalID: -7628198586372374104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_17
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 250
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f0671038f8070c0800000000000000
+      internalID: -4580003028207792333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_18
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 250
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bbf6fbeccfb9940800000000000000
+      internalID: 5304110951064124218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 250
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8946a1cd68e81a3f0800000000000000
+      internalID: -891274541373168488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_20
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 250
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44319db9f0a41730800000000000000
+      internalID: 3968974166107960397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_21
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 250
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bc35f139984f450800000000000000
+      internalID: 6121669058482129819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 250
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4344d060541817d30800000000000000
+      internalID: 4427462042136167476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_23
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 250
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa38fb5878d9b4d0800000000000000
+      internalID: -3118223255526688095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5eb70db44065f20800000000000000
+      internalID: 3410918491446568398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae6f0563b3771990800000000000000
+      internalID: -7415331047110381915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2a22c5d4a30a800800000000000000
+      internalID: 621560852509794982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdd46ae568266440800000000000000
+      internalID: 4928671260392873470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5c31f3d6034fe30800000000000000
+      internalID: 4536303970436761004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd966eeb0d4019f0800000000000000
+      internalID: -499814844998443567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f543cdd777b9a7ba0800000000000000
+      internalID: -6090384608550177697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5f1c8c367aaf6c0800000000000000
+      internalID: -4108787663010400821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da274f0ac5d665720800000000000000
+      internalID: 2834573260081099437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_9
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe462466f9ec24e0800000000000000
+      internalID: -2004970489635254543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e14a55316ee50e74ea6fa29a8ef3b52d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
