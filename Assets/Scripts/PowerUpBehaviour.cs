@@ -5,7 +5,8 @@ using UnityEngine;
 public class PowerUpBehaviour : MonoBehaviour
 {
 
-    public float speed = 50;
+    public static float speed = 0;
+    [HideInInspector]
     public Transform deadZone = null;
 
     // Start is called before the first frame update

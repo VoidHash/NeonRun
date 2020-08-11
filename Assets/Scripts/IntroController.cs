@@ -19,7 +19,6 @@ public class IntroController : MonoBehaviour
 
     public void restartGame()
     {
-        Debug.Log("Coopera vai...");
         SceneManager.LoadScene("GameScene");
     }
 }

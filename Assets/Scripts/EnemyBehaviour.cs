@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class EnemyBehaviour : MonoBehaviour
 {
-    public float enemySpeed = 50;
+    public static float enemySpeed = 0.0f;
+    [HideInInspector]
     public Transform deadZone = null;
     public GameObject enemyDeathParticles;
 

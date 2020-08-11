@@ -23,10 +23,19 @@ Material:
         m_Texture: {fileID: 2800000, guid: f60bb9ecf3e52384fb1eb204a1dbdae2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - Texture2D_8F4DE9A6:
+        m_Texture: {fileID: 2800000, guid: 1e5dcab8d47503b41bb16005c61ae154, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Vector1_655DA99D: 0.05
     - Vector1_6DC2C68C: 0.1
+    - Vector1_7737F70C: 0.01
+    - Vector1_9E8E09C6: 1
+    - Vector1_E5A2CE89: 0
     m_Colors:
     - Color_19C6C157: {r: 0.4438857, g: 0.7075472, b: 0.4713053, a: 0}
+    - Color_DAE2CEE: {r: 0.1751429, g: 2.13556, b: 3.375481, a: 0}
     - Color_E448CF9F: {r: 1.498039, g: 0.5411765, b: 0, a: 0}
     - Vector2_6925FF1E: {r: 1, g: 3, b: 0, a: 0}
   m_BuildTextureStacks: []

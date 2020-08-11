@@ -5,29 +5,38 @@ using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour
 {
+    [Header("Game Props")]
     [SerializeField]
     private float timeBetweenSpawns = 1.75f;
+    [SerializeField]
+    private float playerScoreHelper;
+    [SerializeField]
+    [Range(20, 100)]
+    private int gameSpeedHelper = 50;
+
     private float elapsedTime = 0.0f;
     private float totalTime = 0.0f;
     public static int playerScore = 0;
-    public static float gameSpeed = 40f;
+    public static float gameSpeed = 50f;
+
+    [Header("Game HUD")]
     public GameObject gameOverPanel;
     public TextMeshProUGUI score;
     public TextMeshProUGUI time;
 
-    //Road stuffs
+    [Header("Game Enviroment")]
+    public GameObject player;
+    public GameObject playerIA;
     public GameObject road;
 
-    //Enemies stuffs
+    [Header("Game Enemies")]
     public GameObject enemy01;
     public GameObject enemy02;
     public GameObject enemy03;
     public GameObject enemy04;
 
-    //Coin
+    [Header("Game Itens")]
     public GameObject coin;
-
-    //Power Up
     public GameObject powerUp;
 
     //Enviroment Stuffs
@@ -96,7 +105,7 @@ public class GameController : MonoBehaviour
             if (enemyBehaviour != null)
             {
                 enemyBehaviour.deadZone = destination;
-                enemyBehaviour.enemySpeed = speed;
+                EnemyBehaviour.enemySpeed = speed;
             }
         }else if (go.tag == "PowerUp")
         {
@@ -105,7 +114,7 @@ public class GameController : MonoBehaviour
             if(powerUpBehaviour != null)
             {
                 powerUpBehaviour.deadZone = destination;
-                powerUpBehaviour.speed = speed;
+                PowerUpBehaviour.speed = speed;
             }
         }
         else if (go.tag == "Coin")
@@ -115,7 +124,7 @@ public class GameController : MonoBehaviour
             if (coinBehaviour != null)
             {
                 coinBehaviour.deadZone = destination;
-                coinBehaviour.coinSpeed = speed;
+                CoinBehaviour.coinSpeed = speed;
             }
         }
 
@@ -247,5 +256,24 @@ public class GameController : MonoBehaviour
         totalTime = 0.0f;
         playerScore = 0;
         SceneManager.LoadScene("GameScene");
+    }
+
+    public void switchToIA()
+    {
+        if(playerIA.active == false)
+        {
+            playerIA.SetActive(true);
+            player.SetActive(false);
+        }
+        else
+        {
+            playerIA.SetActive(false);
+            player.SetActive(true);
+        }
+    }
+
+    public void OnAfterDeserialize()
+    {
+        gameSpeed = gameSpeedHelper;
     }
 }

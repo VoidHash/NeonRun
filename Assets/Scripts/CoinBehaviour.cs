@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class CoinBehaviour : MonoBehaviour
 {
-    public float coinSpeed = 50;
+    public static float coinSpeed = 0.0f;
+    [HideInInspector]
     public Transform deadZone = null;
     public GameObject coinDeathParticles;
 
